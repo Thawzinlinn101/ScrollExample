@@ -8,7 +8,7 @@
 
 # *Project Demo image*
 
-<img src="https://firebasestorage.googleapis.com/v0/b/testing-40cef.appspot.com/o/test%2Fviber_image_2022-10-18_14-47-35-607.jpg?alt=media&token=1b8d627c-7ffa-4edd-8c12-89ef149fda7d" width="400" height="auto"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-lab-cd9ee.appspot.com/o/sample_project%2FScreen%20Shot%202023-05-05%20at%207.56.07%20PM.png?alt=media&token=0d1ac72e-b1e4-4627-8e14-1979ceb43f35" width="400" height="auto"/>
 
 # *Demo Video*
 
